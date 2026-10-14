@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Tokyo",
+    "slug": "Tokyo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./tt/c01.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+    "web": {
+      "favicon": "./tt/c01.png",
+      "name": "Tokyo",
+      "shortTitle": "Tokyo"
+    }
+  }
+}
